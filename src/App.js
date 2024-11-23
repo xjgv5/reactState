@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
-        <h1>El tado en React - Hook State</h1>
+        <h1>Estado en React - Hook State</h1>
         <PrimerEstado />
       </header>
     </div>
