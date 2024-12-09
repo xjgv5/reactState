@@ -17,7 +17,7 @@ export const Ejercicio1 = ({year}) => {
 
   return (
     <div>
-        <h2 className=''>Ejercicio con eventos y estados</h2>
+        <h2 className=''>Ejercicio de repaso</h2>
 
         <div className='label bg-slate-700 mt-5 rounded-lg py-3'>
           <b>{yearNow}</b>
